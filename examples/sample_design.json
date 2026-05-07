@@ -1,0 +1,17 @@
+{
+  "picking_zone_width_cm": 16.0,
+  "left_chamber_width_cm": 23.0,
+  "right_chamber_width_cm": 23.0,
+  "min_filament_to_floor_cm": 10.0,
+  "pulse_pressure_kpa": 32.0,
+  "pulse_frequency_hz": 12.0,
+  "duty_cycle": 0.38,
+  "nozzle_angle_deg": 38.0,
+  "nozzle_distance_cm": 7.5,
+  "filament_length_cm": 3.2,
+  "filament_diameter_mm": 0.45,
+  "filament_fatigue_resistance": 0.52,
+  "collection_inlet_height_cm": 7.0,
+  "guide_plate_angle_deg": 28.0,
+  "airflow_balance": 0.92
+}
